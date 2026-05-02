@@ -13,12 +13,3 @@
 | 7 | 07-ping-vpn-server.png | Ping to 10.8.0.1 successful |
 | 8 | 08-client-certificate-add.png | Adding new client (anna) |
 | 9 | 09-client-list.png | List of all client certificates |
-
-## How to Add Screenshots
-
-1. Take screenshots from AWS Console and local machine
-2. Name them as listed above
-3. Copy to this folder
-4. Run: git add screenshots/
-5. Run: git commit -m "Add screenshots"
-6. Run: git push
